@@ -30,21 +30,21 @@ I can't stress this enough. as the original, the cartridge "seems" to be upside 
 
 Bill of material (BOM is included in each gerber zip)
 
-| Quantity | Value       | Package       | Description       |
-| :---     | :---        | :---          | :---              |
-| 2        |   |
-| 4        |   |
-| 2        |   |
-| 2        |     |
-| 2        |    |
-| 2        |     |
-| 1        |    | 
-| 2        |     |
-| 2        |    |
-| 1        |    | 
-| 2        |   |
-| 1        |   | 
-| 2        |    |
+| Quantity | Value       | Package THT      | Package SMT               | Device/Description       |
+| :---     | :---        | :---             | :---                      |:---                      |
+| 2        | 0,1 µF      | C050-024X044     | C0805                     |
+| 4        | 1 µF        | C050-024X044     | C0805                     |
+| 2        | 10 µF       | E2.5-5           | SANYO-OSCON_SMD_B6        |
+| 2        | 47 µF       | E2.5-5           | SANYO-OSCON_SMD_C6        |
+| 2        | 10 kΩ       | 0207/10          | R0805                     |
+| 2        | 100 kΩ      | 0207/10          | R0805                     |
+| 1        | 390 Ω       | 0207/10          | R0805                     |
+| 2        | 3,9 kΩ      | 0207/10          | R0805                     |
+| 2        | 20 kΩ (1%)  | 0207/10          | R0805                     |
+| 1        |             | DIP20            | SOIC127P1032X265-20N      |
+| 2        |             | TO-92            | SOT95P237X125-3N          |
+| 1        |             | DO-35            | MELF3516 or MELF_DO-213AB |
+| 2        |             | RCJ-041          | RCJ-041 or WBTOR1         |
 
 ---
 

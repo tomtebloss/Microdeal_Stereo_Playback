@@ -30,24 +30,27 @@ I can't stress this enough. as the original, the cartridge "seems" to be upside 
 
 Bill of material (BOM is included in each gerber zip)
 
-| Amount            | Type   |
-| :---              | :---        |
-| Hitachi           | HM5118160   |
-| OKI Semiconductor | MSM5118165  |
-| Samsung/SEC       | KM416C1200 and K4F151611 |
-| Texas Instruments | TMS418160   |
-| NEC               | UPD4218160  |
-| HTL               | HT5118160   |
-| ACTCTS            | TM5116100   | 
-| NPN               | NN5118160   |
-| Micron            | MT4C1M16C3DJ|
-
+| Quantity | Value       | Package       | Description       |
+| :---     | :---        | :---          | :---              |
+| 2        |   |
+| 4        |   |
+| 2        |   |
+| 2        |     |
+| 2        |    |
+| 2        |     |
+| 1        |    | 
+| 2        |     |
+| 2        |    |
+| 1        |    | 
+| 2        |   |
+| 1        |   | 
+| 2        |    |
 
 ---
 
-## How to
+## Enclosure
 
-Start by desoldering all the ram chips on the motherboard. Either by hot air station/gun or with braid/solder pump. Beware of delaminatiton and warping of the motherboard if you heat it to long on the same place. If you don't have any plans for the old ram, just snipp all the legs on the chips with a flush cutter. Then desolder only the pins you need to fit the RAM PCB. Also some decoupling capacitors needs to be desoldered. They are a bit thicker then the plastic on the pin headers. The PSU sits on top of the RAM so hardly any room exist. ***So do _NOT_ use sockets!***
+There is no enclosure at the moment. I'm not a 3D designer. If anyone makes one, please contact me so I can add it to this repository. There is two hole on the THT pcb as the original. I don't think it will fit in the original case. I haven't tested that to be honest. The two SMT versions have one hole and two notches on the side of the pcb. So it should be easy to make an enclosure for it. But what do I know.
 
 | Solder 1 PCB with chips and capacitors. Take note of the orientation on pin 1 on PCB and chip (pin 1 is marked with circle on PCB. Notch on the left side of chip and text is readable (not upside-down) then pin 1 is located on bottom left side. (I hadn't a photo of PCB without pins soldered in - So disregard that)| <img title="RAM PCB" style="width:54%" src="images/RAM PCB soldered.jpg">   <img title="RAM chips" style="width:45%" src="images/RAM chips.jpg">|
 | :--- | :---: |

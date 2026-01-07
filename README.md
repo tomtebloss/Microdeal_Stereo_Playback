@@ -8,7 +8,7 @@ Atari ST stereo playback cartridge from Microdeal. Remake from original cartridg
 
 ---
  
-<img title="Original Stereo Playback Cartridge" style="width:50%" align=top src="Pics/old_case.jpg"><img title="Original Stereo Playback Cartridge - inside" style="width:50%" align=top src="Pics/old_inside.jpg">
+<img title="Original Stereo Playback Cartridge" style="width:43%" align=top src="Pics/old_case.jpg"><img title="Original Stereo Playback Cartridge - inside" style="width:56%" align=top src="Pics/old_inside.jpg">
 
 ---
  
@@ -22,15 +22,15 @@ All of the threee versions derive from  the same schematics so the sound produce
 
 ---
 
-## All the components should be faced down when inserting the cartidge in the port. 
+## All the components should be faced down when inserting the cartidge in the port! 
 
-I buy SIMM modules from eBay and desolder the chips on it with a hot air station/gun. But you can also buy them individually. That will probably be more expensive. Below you see a picture of a double sided 8Mb, 72 pin SIMM module. 4Mb single sided SIMM can also be found. It can have 2 or 3 chips on each side (I have only seen 2 chip variant). If 3 chips then one chip would be different and that chip is for the parity bit calculation. That is not needed. I used FPM memory here. I have not tried EDO. 
+I can't stress this enough. as the original, the cartridge "seems" to be upside down. I followed the same design. The silkscreen says what is top and bottom as well.
 
-Chips that can be used on this PCB is 1048576-word by 16-bit dynamic random access memories. Speed is usually between 60ns to 80ns. Lower number is faster.
 
-<img title="8Mb SIMM 72 pin" style="width:55%" align=right src="images/SIMM.jpg">
 
-| Manufacturer      | Chip code   |
+Bill of material (BOM is included in each gerber zip)
+
+| Amount            | Type   |
 | :---              | :---        |
 | Hitachi           | HM5118160   |
 | OKI Semiconductor | MSM5118165  |

@@ -34,14 +34,14 @@ Bill of material (BOM is included in each gerber zip)
 | :---     | :---        | :---             | :---                               |:---                                                    |
 | 2        | 0,1 µF      | C050-024X044     | C0805                              | Capacitor, ceramic (THT: 5mm leg spacing, SMT: 0805)   |
 | 4        | 1 µF        | C050-024X044     | C0805                              | Capacitor, ceramic (THT: 2,5mm leg spacing, SMT: 0805) |
-| 2        | 10 µF       | E2.5-5           | SANYO-OSCON_SMD_B6<br>ø5x5.4mm     | Electrolytic Capacitor, (THT: 2,5mm leg spacing, ø5x11mm)<br>(SMT: B6 ø5x5,4mm)   |
-| 2        | 47 µF       | E2.5-5           | SANYO-OSCON_SMD_C6<br>ø6.3x5.8mm   | Electrolytic Capacitor, (THT: 2,5mm leg spacing, ø5x11mm)<br>(SMT: B6 ø6,3x5,8mm) |
-| 2        | 10 kΩ       | 0207/10          | R0805                              |
-| 2        | 100 kΩ      | 0207/10          | R0805                              |
-| 1        | 390 Ω       | 0207/10          | R0805                              |
-| 2        | 3,9 kΩ      | 0207/10          | R0805                              |
-| 2        | 20 kΩ (1%)  | 0207/10          | R0805                              |
-| 1        |             | DIP20            | SOIC127P1032X265-20N<br>SOIC-20    |
+| 2        | 10 µF       | E2.5-5           | SANYO-OSCON_SMD_B6<br>ø5x5.4mm     | Electrolytic Capacitor,<br>(THT: 2,5mm leg spacing, ø5x11mm) (SMT: B6 ø5x5,4mm)   |
+| 2        | 47 µF       | E2.5-5           | SANYO-OSCON_SMD_C6<br>ø6.3x5.8mm   | Electrolytic Capacitor,<br>(THT: 2,5mm leg spacing, ø5x11mm) (SMT: B6 ø6,3x5,8mm) |
+| 2        | 10 kΩ       | 0207/10          | R0805                              | Resistor, Carbon film (THT: 0,25W 5% tolerance, SMT: 0805) |
+| 2        | 100 kΩ      | 0207/10          | R0805                              | Resistor, Carbon film (THT: 0,25W 5% tolerance, SMT: 0805) |
+| 1        | 390 Ω       | 0207/10          | R0805                              | Resistor, Carbon film (THT: 0,25W 5% tolerance, SMT: 0805) |
+| 2        | 3,9 kΩ      | 0207/10          | R0805                              | Resistor, Carbon film (THT: 0,25W 5% tolerance, SMT: 0805) |
+| 2        | 20 kΩ (1%)  | 0207/10          | R0805                              | Resistor, Metal film (THT: 0,6W 1% tolerance, SMT:0805)<br>(All 0805 is 1% so this doesn't matter) |
+| 1        |             | DIP20            | SOIC127P1032X265-20N<br>SOIC-20    | AD7528, TLC7528 or MX7528. 2 Channel Digital to Analog<br>Converters - DAC CMOS 8-Bit Buffered Multiplying.<br>AD7528 (Analog Devices), TLC7528 (Texas Instrument) or<br>MX7528 (Maxim) will also work. Original have AD7528. |
 | 2        |             | TO-92            | SOT95P237X125-3N (SOT-23)          |
 | 1        |             | DO-35            | MELF3516 or MELF_DO-213AB<br>SOD80 |
 | 2        |             | RCJ-041          | RCJ-041 or WBTOR1                  |

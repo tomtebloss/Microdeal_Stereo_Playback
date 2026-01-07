@@ -64,9 +64,9 @@ There is no enclosure at the moment. I'm not a 3D designer. If anyone makes one,
 
 ---
 
-Disk can be found at Atari Mania: https://www.atarimania.com/utility-atari-st-playback_25563.html
-PDF with labels: 
-Label for cartridge (size:) is included in the 'Pics' folder.
+Disk can be found at Atari Mania: https://www.atarimania.com/utility-atari-st-playback_25563.html <br>
+PDF with labels:  <br>
+Label for cartridge (size:) is included in the 'Pics' folder. <br>
 
 ---
 

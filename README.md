@@ -8,7 +8,7 @@ Atari ST stereo playback cartridge from Microdeal. Remake from original cartridg
 
 ---
  
-<img title="Three versions of Stereo Playback Cartridge" style="width:100%" align=center src="Pics/3v_finished_bottom.jpg">
+<img title="Original Stereo Playback Cartridge" style="width:50%" align=top src="Pics/old_case.jpg"><img title="Original Stereo Playback Cartridge - inside" style="width:50%" align=top src="Pics/old_inside.jpg">
 
 ---
  

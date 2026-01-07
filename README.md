@@ -64,6 +64,9 @@ There is no enclosure at the moment. I'm not a 3D designer. If anyone makes one,
 
 ---
 
+## Testing
+
+I used HexTracker v0.849B to test. ScummVM Lite (Atari) should also work. There is other trackers that also works.
 
 
 ---

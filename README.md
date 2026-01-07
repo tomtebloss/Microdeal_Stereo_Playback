@@ -11,20 +11,18 @@ Atari ST stereo playback cartridge from Microdeal. Remake from original cartridg
 <img title="Three versions of Stereo Playback Cartridge" style="width:100%" align=center src="Pics/3v_finished_bottom.jpg">
 
 ---
-
-## What you will need  
-
-- 1 RAM PCB. Order with the [gerber] file "C070789-C070859_1Mx16_gerber.zip" from your favorite PCB manufactory. 
-- 2 pcs of RAM chips (1048576-word by 16-bit) in 42pin SOJ package (TSOP might work, I have not tried).
-- 3 pcs of 100nF (0,1uF) 0805 SMD capacitors.
-- 1 pcs of 33 ohm 0805 SMD resistor.
-- 3 pcs 68 ohm 1/4W (0,25W) through hole resistors (if it is missing on motherboard).
-- Pinheaders (2,54mm spacing).
-- A piece of wire (I used single strand kynar wire).
+ 
+<img title="Three versions of Stereo Playback Cartridge" style="width:100%" align=center src="Pics/3v_finished_bottom.jpg">
 
 ---
 
-## Get yourself some chips 
+## Three versions  
+
+All of the threee versions derive from  the same schematics so the sound produced should is the same. I bought the original cartridge with the intention to revere engineer the scematics. The through hole versions has more or less the same track and component placement as the original. The two smt versions is the same but two different RCA connector was used. All the pcb's have pads for the signals as well if you want to use panel mount rca jacks.
+
+---
+
+## All the components should be faced down when inserting the cartidge in the port. 
 
 I buy SIMM modules from eBay and desolder the chips on it with a hot air station/gun. But you can also buy them individually. That will probably be more expensive. Below you see a picture of a double sided 8Mb, 72 pin SIMM module. 4Mb single sided SIMM can also be found. It can have 2 or 3 chips on each side (I have only seen 2 chip variant). If 3 chips then one chip would be different and that chip is for the parity bit calculation. That is not needed. I used FPM memory here. I have not tried EDO. 
 

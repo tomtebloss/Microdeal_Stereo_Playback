@@ -88,8 +88,8 @@ PCB made by Daniel Guldkrans aka DoG in Eagle November 2025.
 
 
 [Through hole]: Gerbers/Microdeal_Stereo_Playback_v1.21_THT.zip
-[THT BOM]: Gerbers/Microdeal_Stereo_Playback_SMT_v1.21_v1_BOM.txt
+[THT BOM]: Gerbers/Microdeal_Stereo_Playback_v1.21_THT_BOM.txt
 [Surface Mount v1]: Gerbers/Microdeal_Stereo_Playback_SMT_v1.21_v1.zip
-[SMT v1 BOM]: Gerbers/Microdeal_Stereo_Playback_SMT_v1.21_v2_BOM.txt
+[SMT v1 BOM]: Gerbers/Microdeal_Stereo_Playback_SMT_v1.21_v1_BOM.txt
 [Surface Mount v2]: Gerbers/Microdeal_Stereo_Playback_SMT_v1.21_v2.zip
-[SMt v2 BOM]: Gerbers/Microdeal_Stereo_Playback_v1.21_THT_BOM.txt
+[SMT v2 BOM]: Gerbers/Microdeal_Stereo_Playback_SMT_v1.21_v2_BOM.txt

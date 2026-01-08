@@ -49,7 +49,7 @@ Bill of material (BOM is included in each gerber zip as well as text files in th
 | 1        | XXX7528        | DIP20            | SOIC127P1032X265-20N<br>SOIC-20    | AD7528, TLC7528 or MX7528. 2 Channel Digital to Analog Converters - CMOS 8-Bit Buffered Multiplying DAC. AD7528 (Analog Devices), TLC7528 (Texas Instrument) or MX7528 (Maxim) will also work. Original have AD7528. I have tried with AD and TLC. |
 | 2        | BC549B, BC849B | TO-92            | SOT95P237X125-3N (SOT-23)          | Bipolar Transistor. BJT, 30V, 100mA, NPN. (SMT: I have tried with BC848B as well and it works but sounds a bit different. 849 is low noice. Use 849 if you can)
 | 1        | BZY88-C2V7     | DO-35            | MELF3516 or MELF_DO-213AB, SOD80   | Zener Diode 2.7V 500mW (THT: I used BZX55C2V7 in my test built) (SMT: Choose one of the two footprint. 0,5W power dissipation. 2,7V. ±5%. I used a BZV55B2V7 for this one.)
-| 2        | RCA Jack       | RCJ-041          | RCJ-041 or WBTOR1                  | THT and v1: RCJ-041 - RCA Connector Jack Mono 3.2mm R/A, v2: WBTOR1 - RCA connector according to JEITA RC-5231 Cinch |
+| 2        | RCA Jack       | RCJ-041          | RCJ-041 or WBTOR1                  | THT and v1: RCJ-041 - RCA Connector Jack Mono 3.2mm R/A [AliEx](https://www.aliexpress.com/w/wholesale-RCA%2525252d105.html), v2: WBTOR1 - RCA connector according to JEITA RC-5231 Cinch. [AliEx](https://www.aliexpress.com/w/wholesale-AV%2525252d8.4%2525252d9-.html) |
 
 ---
 

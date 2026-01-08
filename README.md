@@ -57,28 +57,32 @@ There is no enclosure at the moment. I'm not a 3D designer. If anyone makes one,
 
 ---
 
-| Through hole      | <img title="Through hole pcb, bottom" style="width:29%" src="Pics/THT_bottom.jpg">  <img title="Through hole pcb, top" style="width:28.4%" src="Pics/THT_top.jpg"> |
+| [Through hole](Gerber/Microdeal_Stereo_Playback_v1.21_THT.zip)      | <img title="Through hole pcb, bottom" style="width:29%" src="Pics/THT_bottom.jpg">  <img title="Through hole pcb, top" style="width:28.4%" src="Pics/THT_top.jpg"> |
 | :--- | :---:  |
-| Surface Mount v1  | <img title="SMT v1 pcb, bottom" style="width:26.4%" src="Pics/smt_v1_bottom.jpg">  <img title="SMT v1 pcb, top" style="width:28%" src="Pics/smt_v1_top.jpg"> |
-| Surface Mount v2<br>The RCA jack has a very tight fit. v1 is easier to build. | <img title="SMT v2 pcb, bottom" style="width:26%" src="Pics/smt_v2_bottom.jpg">  <img title="SMT v2 pcb, top" style="width:28.6%" src="Pics/smt_v2_top.jpg"> |
+| [Surface Mount v1](Gerber/Microdeal_Stereo_Playback_SMT_v1.21_v1.zip)  | <img title="SMT v1 pcb, bottom" style="width:26.4%" src="Pics/smt_v1_bottom.jpg">  <img title="SMT v1 pcb, top" style="width:28%" src="Pics/smt_v1_top.jpg"> |
+| [Surface Mount v2](Gerber/Microdeal_Stereo_Playback_SMT_v1.21_v2.zip)<br>The RCA jack has a very tight fit. v1 is easier to build. | <img title="SMT v2 pcb, bottom" style="width:26%" src="Pics/smt_v2_bottom.jpg">  <img title="SMT v2 pcb, top" style="width:28.6%" src="Pics/smt_v2_top.jpg"> |
 |                   |   |
 | SMT: I would suggest to use a file to chamfer the edge of the connector to easier put it in the cartridge port. | <img title="SMT v2 pcb, bottom" style="width:29%" src="Pics/45d_chamfer.jpg"> |
 | SMT: Choose one of the diode on the pcb. ${\color{red}Don't \space use \space both!}$ | <img title="SMT v2 pcb, bottom" style="width:29%" src="Pics/diode.jpg"> |
 | SMT: The components are crammed together in a grid which corresponds to the silkscreen grid. Otherwise just look at the picture of the board you choose to build. | <img title="SMT v2 pcb, bottom" style="width:29%" src="Pics/placement.jpg"> |
 ---
 
-Disk can be found at Atari Mania: https://www.atarimania.com/utility-atari-st-playback_25563.html <br>
+The disk that was included in the box can be found at [Atari Mania](https://www.atarimania.com/utility-atari-st-playback_25563.html)<br>
 PDF with labels:  <br>
-Label for cartridge (size:) is included in the 'Pics' folder. <br>
+Label for cartridge (size:) is included in the 'label' folder. <br>
+More photos can be found in the [Pics](Pics/) folder.
 
 ---
 
 ## Testing
 
-I used HexTracker v0.849B to test. ScummVM Lite (Atari) should also work. There is other trackers that also works. https://www.happydaze.se/scummvm-lite-atari/
+I used HexTracker v0.849B to test the cartridge. [ScummVM lite](https://www.happydaze.se/scummvm-lite-atari/) (Atari) should also work. There is other trackers that also works. 
 
 ---
 
 PCB made by Daniel Guldkrans aka DoG in Eagle November 2025.
 
 
+[Through hole](Gerber/Microdeal_Stereo_Playback_v1.21_THT.zip)
+[Surface Mount v1](Gerber/Microdeal_Stereo_Playback_SMT_v1.21_v1.zip) 
+[Surface Mount v2](Gerber/Microdeal_Stereo_Playback_SMT_v1.21_v2.zip)

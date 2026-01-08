@@ -18,7 +18,7 @@ Atari ST stereo playback cartridge from Microdeal. Remake from original cartridg
 
 ## Three versions  
 
-I bought the original cartridge with the intention to reverse engineer the cartridge. The through hole versions has more or less the same track and component placement/layout as the original. The two smt versions is the same but two different RCA connector was used. All of the three versions derives from the same schematics so the sound produced should be the same. All the pcb's have pads for the signals if you want to use panel mount rca jacks. But of course you can use the RCA jack holes for that.
+I bought the original cartridge with the intention to reverse engineer it. The through hole versions has more or less the same track and component placement/layout as the original. The two smt versions is the same but two different RCA connector was used. All of the three versions derives from the same schematics so the sound produced should be the same. All the pcb's have pads for the signals if you want to use panel mount rca jacks. But of course you can use the RCA jack holes for that.
 
 ---
 
@@ -30,6 +30,8 @@ I bought the original cartridge with the intention to reverse engineer the cartr
 > I can't stress this enough. As the original, the cartridge "seems" to be upside down. I followed the same design. The silkscreen says what is top and bottom as well.
 
 ---
+
+## BOM
 
 Bill of material (BOM is included in each gerber zip as well as text files in the 'Gerbers' directory)
 
@@ -53,9 +55,11 @@ Bill of material (BOM is included in each gerber zip as well as text files in th
 
 ## Enclosure
 
-There is no enclosure at the moment. I'm not a 3D designer. If anyone makes one, please contact me so I can add it to this repository. There is two hole on the THT pcb as the original. I don't think it will fit in the original case. I haven't tested that to be honest. The two SMT versions have one hole and two notches on the side of the pcb. So it should be easy to make an enclosure for it. But what do I know.
+There is no enclosure at the moment. If anyone makes one, please contact me so I can add it to this repository. There is two hole on the THT pcb as the original. I don't think it will fit in the original case. I haven't tested that though. The two SMT versions have one hole and two notches on the side of the pcb. So it should be easy to make an enclosure for it. But what do I know, I'm not a 3D designer.
 
 ---
+
+## Tips and help
 
 | [Through hole]<br>[THT BOM]      | <img title="Through hole pcb, bottom" style="width:29%" src="Pics/THT_bottom.jpg">  <img title="Through hole pcb, top" style="width:28.4%" src="Pics/THT_top.jpg"> |
 | :--- | :---:  |
@@ -68,8 +72,8 @@ There is no enclosure at the moment. I'm not a 3D designer. If anyone makes one,
 ---
 
 The disk that was included in the box can be found at [Atari Mania](https://www.atarimania.com/utility-atari-st-playback_25563.html)<br>
-PDF with labels:  <br>
-Label for cartridge (size:) is included in the 'label' folder. <br>
+[PDF with labels](Labels/) <br>
+Label for cartridge (size:) is included in the [label](Labels/) folder. <br>
 More photos can be found in the [Pics](Pics/) folder.
 
 ---

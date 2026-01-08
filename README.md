@@ -74,8 +74,8 @@ There is no enclosure at the moment. If anyone makes one, please contact me so I
 The disk that was included in the box can be found at [Atari Mania](https://www.atarimania.com/utility-atari-st-playback_25563.html)<br>
 [PDF with labels](Labels/) <br>
 Label for cartridge (size:) is included in the [label](Labels/) folder. <br>
-More photos can be found in the [Pics](Pics/) folder.
-All three PCB:[TOP](Pics/3v_pcb_top.jpg), [BOTTOM](Pics/3v_pcb_bottom.jpg)
+More photos can be found in the [Pics](Pics/) folder. <br>
+All three PCB: [TOP](Pics/3v_pcb_top.jpg), [BOTTOM](Pics/3v_pcb_bottom.jpg).
 
 ---
 

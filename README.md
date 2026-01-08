@@ -18,7 +18,7 @@ Atari ST stereo playback cartridge from Microdeal. Remake from original cartridg
 
 ## Three versions  
 
-All of the threee versions derive from  the same schematics so the sound produced should is the same. I bought the original cartridge with the intention to reverse engineer the cartridge. The through hole versions has more or less the same track and component placement/layout as the original. The two smt versions is the same but two different RCA connector was used. All the pcb's have pads for the signals as well if you want to use panel mount rca jacks. 
+I bought the original cartridge with the intention to reverse engineer the cartridge. The through hole versions has more or less the same track and component placement/layout as the original. The two smt versions is the same but two different RCA connector was used. All of the three versions derives from the same schematics so the sound produced should be the same. All the pcb's have pads for the signals if you want to use panel mount rca jacks. But of course you can use the RCA jack holes for that.
 
 ---
 

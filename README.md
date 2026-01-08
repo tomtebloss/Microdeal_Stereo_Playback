@@ -75,7 +75,7 @@ The disk that was included in the box can be found at [Atari Mania](https://www.
 [PDF with labels](Labels/) <br>
 Label for cartridge (size:) is included in the [label](Labels/) folder. <br>
 More photos can be found in the [Pics](Pics/) folder. <br>
-All three PCB: [TOP](Pics/3v_pcb_top.jpg), [BOTTOM](Pics/3v_pcb_bottom.jpg).
+All three PCB unpopulated: [TOP](Pics/3v_pcb_top.jpg), [BOTTOM](Pics/3v_pcb_bottom.jpg).
 
 ---
 

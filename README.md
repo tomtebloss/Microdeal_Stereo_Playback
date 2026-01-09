@@ -23,11 +23,12 @@ I bought the original cartridge with the intention to reverse engineer it. The t
 ---
 
 ## Cartridge Orientation
-> [!CAUTION]
-> 
+> [!CAUTION] 
+> <img title="Plugged in a Mega ST4" style="width:12%" align=right src="Pics/plugged_in.jpg">
 > ${\color{red}All \space the \space components \space should \space be \space faceing \space down \space when \space inserting \space the \space cartidge \space in \space the \space port! }$  
 > 
 > I can't stress this enough. As the original, the cartridge "seems" to be upside down. I followed the same design. The silkscreen says what is top and bottom as well.
+
 
 ---
 

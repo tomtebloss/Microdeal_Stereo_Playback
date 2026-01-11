@@ -76,7 +76,7 @@ The disk that was included in the box can be found at [Atari Mania](https://www.
 [PDF with multiple labels](Labels/Microdeal%20Stereo%20Playback%20label.pdf) <br>
 Label for cartridge (size ca: 39,6 mm x 57 mm) is included in the [label](Labels/Sticker%2039,6mmx57mm.jpg) folder. <br>
 More photos can be found in the [Pics](Pics/) folder. <br>
-Datasheets for some of the components used in the original or the new design can be found in the [Datasheets](Datasheets/) folder. <br>
+Datasheet for some of the components used in the original or the new design can be found in the [Datasheet](Datasheet/) folder. <br>
 All three PCB unpopulated: [TOP](Pics/3v_pcb_top.jpg), [BOTTOM](Pics/3v_pcb_bottom.jpg).
 
 ---

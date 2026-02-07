@@ -56,7 +56,7 @@ Bill of material (BOM is included in each gerber zip as well as text files in th
 
 ## Enclosure
 
-There is no enclosure at the moment. If anyone makes one, please contact me so I can add it to this repository. There is two hole on the THT pcb as the original. I don't think it will fit in the original case. I haven't tested that though. The two SMT versions have one hole and two notches on the side of the pcb. So it should be easy to make an enclosure for it. But what do I know, I'm not a 3D designer.
+There is no enclosure at the moment. If anyone makes one, please contact me so I can add it to this repository. There is two hole on the THT pcb as the original. I ~~don't think it~~ will not fit in the original case. ~~I haven't tested that though~~. The two SMT versions have one hole and two notches on the side of the pcb. So it should be easy to make an enclosure for it. But what do I know, I'm not a 3D designer.
 
 ---
 

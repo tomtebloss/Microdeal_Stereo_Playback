@@ -67,7 +67,7 @@ There is no enclosure at the moment. If anyone makes one, please contact me so I
 | [Surface Mount v1]<br>[SMT v1 BOM]  | <img title="SMT v1 pcb, bottom" style="width:26.4%" src="Pics/smt_v1_bottom.jpg">  <img title="SMT v1 pcb, top" style="width:28%" src="Pics/smt_v1_top.jpg"> |
 | [Surface Mount v2]<br>[SMT v2 BOM]<br>The RCA jack has a very tight fit. v1 is easier to build. | <img title="SMT v2 pcb, bottom" style="width:26%" src="Pics/smt_v2_bottom.jpg">  <img title="SMT v2 pcb, top" style="width:28.6%" src="Pics/smt_v2_top.jpg"> |
 |                   |   |
-| SMT: I would suggest to use a file to chamfer the edge of the connector to easier put it in the cartridge port. | <img title="SMT v2 pcb, bottom" style="width:29%" src="Pics/45d_chamfer.jpg"> |
+| I would suggest to use a file to chamfer the edge of the connector to easier put it in the cartridge port. | <img title="SMT v2 pcb, bottom" style="width:29%" src="Pics/45d_chamfer.jpg"> |
 | SMT: Choose one of the diode on the pcb. ${\color{red}Don't \space use \space both!}$ | <img title="SMT v2 pcb, bottom" style="width:29%" src="Pics/diode.jpg"> |
 | SMT: The components are crammed together in a grid which corresponds to the silkscreen grid. Otherwise just look at the picture of the board you choose to build. | <img title="SMT v2 pcb, bottom" style="width:29%" src="Pics/placement.jpg"> |
 ---
